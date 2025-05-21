@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 04e02e5f47f594640939b043978bec3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267036
+  packageName: Power Pivot - Rotate, Scale, Edit, Snap & Pivot Editor
+  packageVersion: 2.0.6
+  assetPath: Assets/Kamgam/PowerPivot/Editor/MeshImportListener.cs
+  uploadId: 726020

@@ -1,0 +1,67 @@
+{
+    "name": "GeneralControls",
+    "maps": [
+        {
+            "name": "General Inputs",
+            "id": "686edbb9-3728-4444-bba3-37488199c6b9",
+            "actions": [
+                {
+                    "name": "UIPause",
+                    "type": "Button",
+                    "id": "80bda05a-eb12-425a-a293-918248d40b56",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7455bb27-4cf1-494e-b8bb-292f9f58546d",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UIPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ac3f6f23-e2df-4248-84d2-5d029d2266b6",
+                    "path": "<SwitchProControllerHID>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UIPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f7eae208-2d21-4db5-9327-3d0244dccbf5",
+                    "path": "<DualShockGamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UIPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "785633ae-0033-4711-b7b4-9286bfef4152",
+                    "path": "<XInputController>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UIPause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

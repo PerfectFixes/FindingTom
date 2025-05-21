@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2f1694df3ff81043bd058a4d12e819f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267036
+  packageName: Power Pivot - Rotate, Scale, Edit, Snap & Pivot Editor
+  packageVersion: 2.0.6
+  assetPath: Assets/Kamgam/PowerPivot/Editor/Settings/Installer.cs
+  uploadId: 726020
